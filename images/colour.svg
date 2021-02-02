@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook/circle/colour</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M36,0 C55.882251,-3.65231026e-15 72,16.117749 72,36 C72,55.882251 55.882251,72 36,72 C16.117749,72 2.4348735e-15,55.882251 0,36 C-2.4348735e-15,16.117749 16.117749,3.65231026e-15 36,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Social-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-2520.000000, -3066.000000)" id="facebook/circle/colour">
+            <g transform="translate(2520.000000, 3066.000000)">
+                <g id="Facebook">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-5" fill="#435EA3" xlink:href="#path-1"></use>
+                    <polygon id="Combined-Shape" fill="#000000" opacity="0.100000001" mask="url(#mask-2)" points="31 54 63.3357986 85.9607986 85 57.5 45.5 18 33.5 31.5"></polygon>
+                    <path d="M31,54 L31.0493782,37.0004446 L27,37.0004446 L27,30.4495331 L31.0493782,30.4495331 L31.0493782,26.5197866 C31.0493782,21.1794131 33.0043759,18 39.5,18 L45.5,18 L45.5,24.5 L41.8598802,24.5 C39.3305389,24.5 39.1623215,25.4653179 39.1623215,27.1740774 L39.1521879,30.4495331 L45.2769231,30.4495331 L44.5594657,37.0004446 L39.1521879,37.0004446 L39.1521879,54 L31,54 Z" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
